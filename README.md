@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Perkenalkan nama saya **Alfa Giovanni**.<br>
+
+Saya seorang **Student FullStack Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
+
+ini adalah Linkedin saya <br>
+[Linkedin](https://www.linkedin.com/in/alfagvx/).
 <!--
 **willbealrite/willbealrite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
