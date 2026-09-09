@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Alfa Giovanni**.<br>
+Perkenalkan nama saya **Alfa Gvx**.<br>
 
 Saya seorang **Student FullStack Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
