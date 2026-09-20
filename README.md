@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Al**.<br>
+Saya **Al**.<br>
 Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding]\([https://www.dicoding.com/](https://www.dicoding.com/)).
 
-<br>ini adalah Linkedin saya <br>
-[Linkedin]\([https://www.linkedin.com/in/alfagvx/](https://www.linkedin.com/in/alfagvx/)).
+<br>Link Linkedin:<br>
+([https://www.linkedin.com/in/alfagvx/](https://www.linkedin.com/in/alfagvx/)).
 
 ### Github Statistic
 
