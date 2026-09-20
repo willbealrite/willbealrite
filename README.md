@@ -4,13 +4,22 @@ Perkenalkan nama saya **Alfa Gvx**.<br>
 
 Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding](https://www.dicoding.com/).<br>
 
-ini adalah Linkedin saya <br>
-[Linkedin](https://www.linkedin.com/in/alfagvx/).
+### 💻 Programming Languages & Technologies
+
+- JavaScript
+- HTML
+- CSS
+- Python
+- React JS
+- Node JS
+
+Ini adalah LinkedIn saya <br>
+[LinkedIn](https://www.linkedin.com/in/alfagvx/).
 
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/willbealrite">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=willbealrite&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=willbealrite&layout=compact&theme=algolia"/>
 </a>
 </p>
