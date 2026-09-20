@@ -6,9 +6,11 @@ Saat ini saya adalah **Student FullStack Web Developer** di ([https://www.dicodi
 <br>Link Linkedin:<br>
 ([https://www.linkedin.com/in/alfagvx/](https://www.linkedin.com/in/alfagvx/)).
 
+<br>Skill yang dikuasai:<br>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,python,react,nodejs" />
 </p>
+
 
 ### Github Statistic
 
