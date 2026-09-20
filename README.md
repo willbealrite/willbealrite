@@ -6,11 +6,10 @@ Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding]\([https:/
 <br>Link Linkedin:<br>
 ([https://www.linkedin.com/in/alfagvx/](https://www.linkedin.com/in/alfagvx/)).
 
-### Github Statistic
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,python,react,nodejs" />
 </p>
+### Github Statistic
 
 <p align="left">
 <a href="https://github.com/willbealrite">
