@@ -9,6 +9,7 @@ Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding]\([https:/
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,html,css,python,react,nodejs" />
 </p>
+
 ### Github Statistic
 
 <p align="left">
