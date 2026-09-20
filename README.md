@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Saya **Al**.<br>
-Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding]\([https://www.dicoding.com/](https://www.dicoding.com/)).
+Saat ini saya adalah **Student FullStack Web Developer** di ([https://www.dicoding.com/](https://www.dicoding.com/)).
 
 <br>Link Linkedin:<br>
 ([https://www.linkedin.com/in/alfagvx/](https://www.linkedin.com/in/alfagvx/)).
