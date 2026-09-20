@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Perkenalkan nama saya **Alfa Gvx**.<br>
+Perkenalkan nama saya **Al**.<br>
 Saat ini saya adalah **Student FullStack Web Developer** di [Dicoding]\([https://www.dicoding.com/](https://www.dicoding.com/)).
 
 <br>ini adalah Linkedin saya <br>
