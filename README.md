@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 Saya **Al**.<br>
 Saat ini saya adalah **Student FullStack Web Developer** di ([https://www.dicoding.com/](https://www.dicoding.com/)).
